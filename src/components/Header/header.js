@@ -4,7 +4,11 @@ const Header = () =>
 {
 
     return (
-        <div>This is Header</div>
+        <div>
+            <div className="container-banner">
+                Maravel Quiz
+            </div>
+        </div>
     )
 
 }

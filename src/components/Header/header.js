@@ -5,13 +5,15 @@ const Header = () =>
 
     return (
         <div>
-            <div className="container-banner">
-                Maravel Quiz
+            <div className="banner-container">
+                <h1><a href="#">Maravel Quiz</a></h1>
             </div>
         </div>
     )
 
 }
+
+
 
 export default Header;
 
